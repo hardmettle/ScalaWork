@@ -1,0 +1,5 @@
+package testf
+
+class Taut {
+
+}
